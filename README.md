@@ -1,2 +1,2 @@
 # arduino-stuff
-This is small project for Arduino learning process
+This is small project for Arduino learning process.
