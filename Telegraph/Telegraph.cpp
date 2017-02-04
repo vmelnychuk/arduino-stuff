@@ -18,7 +18,7 @@ const char* DIGITS[] = {
 };
 
 Telegraph::Telegraph(const int dit_len) {
-    dit_length = dit_length;
+    dit_length = dit_len;
     dah_length = dit_length * 3;
     pinMode(LED_BUILTIN, OUTPUT);
 }
