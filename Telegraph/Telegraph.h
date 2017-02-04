@@ -3,7 +3,7 @@
 
 class Telegraph {
     public:
-        Telegraph(const int dit_length);
+        Telegraph(const int dit_len);
         void send_message(const char* message);
 
     private:
